@@ -5,14 +5,14 @@ This is the place where I opensource stuff and break things 🐧
 - 🐧 &nbsp;I’m currently working on something cool 🐧
 - 🐧 &nbsp;I’m currently learning everything 🐧
 
-### Connect with me:
+### 🔗 &nbsp;Connect with me:
 
 [<img align="left" alt="Ducchuy | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="Ducchuy | facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 
 <br />
 
-### Languages and Tools:
+### 🛠️&nbsp;Languages and Tools:
 
 <p align="left"><a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40"/> </a>
 <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40"/> </a>
