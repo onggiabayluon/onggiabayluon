@@ -67,6 +67,8 @@
   
 </details>
 
+<br />
+
 ### 🔗 &nbsp;Connect with me:
 
 [<img align="left" alt="Ducchuy | YouTube" height="30" width="40" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" />][youtube]
