@@ -67,8 +67,6 @@
   
 </details>
 
-<br />
-
 <details>
   <summary><b>🔗 Connect with me:</b></summary>
   <br />
