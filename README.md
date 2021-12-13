@@ -56,6 +56,11 @@ All of my projects are released as open-source on GitHub, this includes some of 
   <summary><b>:zap: Recent GitHub Activity</b></summary>
   <br/>
   <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#9](https://github.com/nguyen498/quanlikhachsan/pull/9) in [nguyen498/quanlikhachsan](https://github.com/nguyen498/quanlikhachsan)
+2. 💪 Opened PR [#9](https://github.com/nguyen498/quanlikhachsan/pull/9) in [nguyen498/quanlikhachsan](https://github.com/nguyen498/quanlikhachsan)
+3. 🎉 Merged PR [#6](https://github.com/nguyen498/quanlikhachsan/pull/6) in [nguyen498/quanlikhachsan](https://github.com/nguyen498/quanlikhachsan)
+4. 💪 Opened PR [#6](https://github.com/nguyen498/quanlikhachsan/pull/6) in [nguyen498/quanlikhachsan](https://github.com/nguyen498/quanlikhachsan)
+5. 💪 Opened PR [#5](https://github.com/nguyen498/quanlikhachsan/pull/5) in [nguyen498/quanlikhachsan](https://github.com/nguyen498/quanlikhachsan)
   <!--END_SECTION:activity-->
 
 </details>
