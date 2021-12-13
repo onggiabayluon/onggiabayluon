@@ -17,7 +17,7 @@ This is the place where I opensource stuff and break things 🐧
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-### 📕 **Latest Blog Posts**
+### :yt: **Latest Youtube Video**
 
 <!-- BLOG-POST-LIST:START -->
 - [Blog Post Workflow GitHub Action](https://dev.to/gautamkrishnar/blog-post-workflow-github-action-1821)
