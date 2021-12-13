@@ -71,8 +71,8 @@
   <summary><b>🔗 Connect with me:</b></summary>
   <br />
   
-  [<img align="left" alt="Ducchuy | YouTube" height="30" width="40" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme- generator/master/src/images/icons/Social/youtube.svg" />][youtube]
-  [<img align="left" alt="Ducchuy | facebook" height="30" width="40" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" />][facebook]
+[<img align="left" alt="Ducchuy | YouTube" height="30" width="40" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme- generator/master/src/images/icons/Social/youtube.svg" />][youtube]
+[<img align="left" alt="Ducchuy | facebook" height="30" width="40" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" />][facebook]
   
 </details>
 
