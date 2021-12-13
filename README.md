@@ -1,12 +1,10 @@
-<p align="center">
-  Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-</p>
+# Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
----
+:This is the place where I opensource stuff and break things 🐧
 
 ![counter](https://enw1qku56qiqbo4.m.pipedream.net)
 
-This is the place where I opensource stuff and break things 🐧
+
 
 - 🐧 &nbsp;I’m currently working on something cool 🐧
 - 🐧 &nbsp;I’m currently learning everything 🐧
