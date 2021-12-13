@@ -28,6 +28,7 @@ All of my projects are released as open-source on GitHub, this includes some of 
 
 
 [⏩ &nbsp; and many more](https://github.com/onggiabayluon?tab=repositories) 
+</details>
 
 <details>
   <summary><b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b></summary>
