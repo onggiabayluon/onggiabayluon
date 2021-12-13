@@ -1,18 +1,13 @@
 <div align="center">
 
-# This is gonna be centered!
+## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 </div>
 
-## Example text ##
-
-## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> {style=text-align:center}
-
-
-:This is the place where I opensource stuff and break things 🐧
+<p align="center">
+  This is the place where I opensource stuff and break things 🐧
+</div>
 
 ![counter](https://enw1qku56qiqbo4.m.pipedream.net)
-
-
 
 - 🐧 &nbsp;I’m currently working on something cool 🐧
 - 🐧 &nbsp;I’m currently learning everything 🐧
