@@ -17,14 +17,15 @@ This is the place where I opensource stuff and break things 🐧
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-### 🎥 **Latest Youtube Video**
+### :zap: Recent GitHub Activity
 
-<!-- BLOG-POST-LIST:START -->
-- [Stoneshard Dagger &amp; Sword build #3 - Double second wind](https://www.youtube.com/watch?v=AwSQY4pLsWc)
-- [Stoneshard Dagger &amp; Sword build #2 - Skeleton KingsGuard Boss Fight](https://www.youtube.com/watch?v=DCTPNEGE_e8)
-- [Stoneshard Dagger &amp; Sword build #1 - Cultist Boss Fight](https://www.youtube.com/watch?v=Ru8aOuugKk4)
-- [Darkest Dungeon Modded - Boss Fight &lpar;Levantine Janissary&rpar;](https://www.youtube.com/watch?v=gdMLhl8xl-g)
-<!-- BLOG-POST-LIST:END -->
+  <!--START_SECTION:activity-->
+  1. 🎉 Merged PR [#9](https://github.com/nguyen498/quanlikhachsan/pull/9) in [nguyen498/quanlikhachsan](https://github.com/nguyen498/quanlikhachsan)
+  2. 💪 Opened PR [#9](https://github.com/nguyen498/quanlikhachsan/pull/9) in [nguyen498/quanlikhachsan](https://github.com/nguyen498/quanlikhachsan)
+  3. 🎉 Merged PR [#6](https://github.com/nguyen498/quanlikhachsan/pull/6) in [nguyen498/quanlikhachsan](https://github.com/nguyen498/quanlikhachsan)
+  4. 💪 Opened PR [#6](https://github.com/nguyen498/quanlikhachsan/pull/6) in [nguyen498/quanlikhachsan](https://github.com/nguyen498/quanlikhachsan)
+  5. 💪 Opened PR [#5](https://github.com/nguyen498/quanlikhachsan/pull/5) in [nguyen498/quanlikhachsan](https://github.com/nguyen498/quanlikhachsan)
+  <!--END_SECTION:activity-->
 
 <details>
   <summary><b>✨&nbsp;&nbsp;About&nbsp;Me</b></summary>
@@ -51,17 +52,16 @@ This is the place where I opensource stuff and break things 🐧
 </details>
 
 <details>
-  <summary><b>:zap: Recent GitHub Activity</b></summary>
+  <summary><b>🎥 **Latest Youtube Video**</b></summary>
   <br />
   
-  <!--START_SECTION:activity-->
-  1. 🎉 Merged PR [#9](https://github.com/nguyen498/quanlikhachsan/pull/9) in [nguyen498/quanlikhachsan](https://github.com/nguyen498/quanlikhachsan)
-  2. 💪 Opened PR [#9](https://github.com/nguyen498/quanlikhachsan/pull/9) in [nguyen498/quanlikhachsan](https://github.com/nguyen498/quanlikhachsan)
-  3. 🎉 Merged PR [#6](https://github.com/nguyen498/quanlikhachsan/pull/6) in [nguyen498/quanlikhachsan](https://github.com/nguyen498/quanlikhachsan)
-  4. 💪 Opened PR [#6](https://github.com/nguyen498/quanlikhachsan/pull/6) in [nguyen498/quanlikhachsan](https://github.com/nguyen498/quanlikhachsan)
-  5. 💪 Opened PR [#5](https://github.com/nguyen498/quanlikhachsan/pull/5) in [nguyen498/quanlikhachsan](https://github.com/nguyen498/quanlikhachsan)
-  <!--END_SECTION:activity-->
-
+  <!-- BLOG-POST-LIST:START -->
+  - [Stoneshard Dagger &amp; Sword build #3 - Double second wind](https://www.youtube.com/watch?v=AwSQY4pLsWc)
+  - [Stoneshard Dagger &amp; Sword build #2 - Skeleton KingsGuard Boss Fight](https://www.youtube.com/watch?v=DCTPNEGE_e8)
+  - [Stoneshard Dagger &amp; Sword build #1 - Cultist Boss Fight](https://www.youtube.com/watch?v=Ru8aOuugKk4)
+  - [Darkest Dungeon Modded - Boss Fight &lpar;Levantine Janissary&rpar;](https://www.youtube.com/watch?v=gdMLhl8xl-g)
+  <!-- BLOG-POST-LIST:END -->
+  
 </details>
 
 [facebook]: https://www.facebook.com/ducchuy123
