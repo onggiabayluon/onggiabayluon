@@ -1,17 +1,14 @@
-<div align="center">
+### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-</div>
-
-<p align="center">
-  This is the place where I opensource stuff and break things 🐧
-</div>
-
-![counter](https://enw1qku56qiqbo4.m.pipedream.net)
+This is the place where I opensource stuff and break things 🐧
 
 - 🐧 &nbsp;I’m currently working on something cool 🐧
-
 - 🐧 &nbsp;I’m currently learning everything 🐧
+
+### 🔗 &nbsp;Connect with me:
+
+[<img align="left" alt="Ducchuy | YouTube" height="30" width="40" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" />][youtube]
+[<img align="left" alt="Ducchuy | facebook" height="30" width="40" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" />][facebook]
 
 <br />
 
@@ -59,20 +56,13 @@
   <br />
   
   <!-- BLOG-POST-LIST:START -->
-- [Stoneshard Dagger &amp; Sword build #3 - Double second wind](https://www.youtube.com/watch?v=AwSQY4pLsWc)
-- [Stoneshard Dagger &amp; Sword build #2 - Skeleton KingsGuard Boss Fight](https://www.youtube.com/watch?v=DCTPNEGE_e8)
-- [Stoneshard Dagger &amp; Sword build #1 - Cultist Boss Fight](https://www.youtube.com/watch?v=Ru8aOuugKk4)
-- [Darkest Dungeon Modded - Boss Fight &lpar;Levantine Janissary&rpar;](https://www.youtube.com/watch?v=gdMLhl8xl-g)
-<!-- BLOG-POST-LIST:END -->
+  - [Stoneshard Dagger &amp; Sword build #3 - Double second wind](https://www.youtube.com/watch?v=AwSQY4pLsWc)
+  - [Stoneshard Dagger &amp; Sword build #2 - Skeleton KingsGuard Boss Fight](https://www.youtube.com/watch?v=DCTPNEGE_e8)
+  - [Stoneshard Dagger &amp; Sword build #1 - Cultist Boss Fight](https://www.youtube.com/watch?v=Ru8aOuugKk4)
+  - [Darkest Dungeon Modded - Boss Fight &lpar;Levantine Janissary&rpar;](https://www.youtube.com/watch?v=gdMLhl8xl-g)
+  <!-- BLOG-POST-LIST:END -->
   
 </details>
-
-
-### 🔗 &nbsp;Connect with me:
-
-[<img align="left" alt="Ducchuy | YouTube" height="30" width="40" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" />][youtube]
-[<img align="left" alt="Ducchuy | facebook" height="30" width="40" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" />][facebook]
-
 
 [facebook]: https://www.facebook.com/ducchuy123
 [youtube]: https://www.youtube.com/channel/UCN-ZLyAreoGPC5rT4vj7aCw
