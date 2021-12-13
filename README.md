@@ -52,7 +52,7 @@ This is the place where I opensource stuff and break things 🐧
 </details>
 
 <details>
-  <summary><b>🎥 **Latest Youtube Video**</b></summary>
+  <summary><b>🎥 Latest Youtube Video</b></summary>
   <br />
   
   <!-- BLOG-POST-LIST:START -->
