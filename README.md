@@ -13,7 +13,7 @@
 
 - 🐧 &nbsp;I’m currently learning everything 🐧
 
-<br />
+
 
 ### 📊 This week I spent my time on
 
