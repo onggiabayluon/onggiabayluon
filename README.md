@@ -36,7 +36,7 @@ This is the place where I opensource stuff and break things 🐧
   All of my projects are released as open-source on GitHub, this includes some of my GitHub trending projects:
   - [Comic website](https://github.com/onggiabayluon/comic-node-docker) - My first project using nodejs mongodb docker.
   - [Hotel website](https://github.com/onggiabayluon/quanlikhachsan) - School project using python mysql.
-  - [⏩ &nbsp; and many more](https://github.com/onggiabayluon?tab=repositories) 
+  - [and many more &nbsp; ⏩](https://github.com/onggiabayluon?tab=repositories) 
 </details>
 
 <details>
