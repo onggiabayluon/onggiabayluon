@@ -1,4 +1,4 @@
-name: Latest blog post workflow
+name: Latest youtube channel video list 
 on:
   schedule:
     # Runs every hour
@@ -7,11 +7,11 @@ on:
 
 jobs:
   update-readme-with-blog:
-    name: Update this repo's README with latest blog posts
+    name: Update this repo's README with latest youtube channel video list 
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           max_post_count: "4"
-          feed_list: "https://dev.to/feed/gautamkrishnar,https://www.gautamkrishnar.com/feed/"
+          feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCN-ZLyAreoGPC5rT4vj7aCw"
