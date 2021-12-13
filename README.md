@@ -4,6 +4,8 @@ This is the place where I opensource stuff and break things 🐧
 - 🐧 &nbsp;I’m currently working on something cool 🐧
 - 🐧 &nbsp;I’m currently learning everything 🐧
 
+---
+
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
@@ -13,10 +15,15 @@ This is the place where I opensource stuff and break things 🐧
 <a href="https://www.youtube.com/channel/UCN-ZLyAreoGPC5rT4vj7aCw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="gautamkrishnar" height="30" width="40" /></a>
 <a href="https://www.facebook.com/ducchuy123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="gautamkrishnar" height="30" width="40" /></a>
 
+---
+
 📊 &nbsp;**This week I spent my time on**
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
+
+---
+
 <details>
   <summary><b>✨&nbsp;&nbsp;About&nbsp;Me</b></summary>
   <br/>
