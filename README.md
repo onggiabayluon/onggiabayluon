@@ -16,8 +16,8 @@ This is the place where I opensource stuff and break things 🐧
 
 ### 📊 This week I spent my time on
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+  <!--START_SECTION:waka-->
+  <!--END_SECTION:waka-->
 
 ### :zap: Recent GitHub Activity
 
