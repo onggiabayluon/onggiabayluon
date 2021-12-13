@@ -1,8 +1,8 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-This is the place where I opensource stuff and break things :rofl:
+This is the place where I opensource stuff and break things 🐧
 
-- 🔭 &nbsp;I’m currently working on something cool :wink:
-- 🌱 &nbsp;I’m currently learning everything 🐧
+- 🐧 &nbsp;I’m currently working on something cool 🐧
+- 🐧 &nbsp;I’m currently learning everything 🐧
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
@@ -20,11 +20,12 @@ This is the place where I opensource stuff and break things :rofl:
   <summary><b>✨&nbsp;&nbsp;About&nbsp;Me</b></summary>
   <br/>
 
-I am a Student.
+I am a Student. 🐧
 
 ### My Opensource Story
 All of my projects are released as open-source on GitHub, this includes some of my GitHub trending projects:
-- [Comic website](https://github.com/onggiabayluon/comic-node-docker) - My first project using nodejs.
+- [Comic website](https://github.com/onggiabayluon/comic-node-docker) - My first project using nodejs mongodb docker.
+- [Hotel website](https://github.com/onggiabayluon/quanlikhachsan) - School project using python mysql.
 
 
 [⏩ &nbsp; and many more](https://github.com/onggiabayluon?tab=repositories) 
@@ -43,7 +44,7 @@ All of my projects are released as open-source on GitHub, this includes some of 
 </details>
 
 <details>
-  <summary>:zap: Recent GitHub Activity</summary>
+  <summary><b>:zap: Recent GitHub Activity</b></summary>
   
   <!--START_SECTION:activity-->
   <!--END_SECTION:activity-->
