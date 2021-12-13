@@ -13,11 +13,6 @@
 
 - 🐧 &nbsp;I’m currently learning everything 🐧
 
-### 🔗 &nbsp;Connect with me:
-
-[<img align="left" alt="Ducchuy | YouTube" height="30" width="40" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" />][youtube]
-[<img align="left" alt="Ducchuy | facebook" height="30" width="40" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" />][facebook]
-
 <br />
 
 ### 📊 This week I spent my time on
@@ -71,6 +66,12 @@
 <!-- BLOG-POST-LIST:END -->
   
 </details>
+
+### 🔗 &nbsp;Connect with me:
+
+[<img align="left" alt="Ducchuy | YouTube" height="30" width="40" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" />][youtube]
+[<img align="left" alt="Ducchuy | facebook" height="30" width="40" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" />][facebook]
+
 
 [facebook]: https://www.facebook.com/ducchuy123
 [youtube]: https://www.youtube.com/channel/UCN-ZLyAreoGPC5rT4vj7aCw
