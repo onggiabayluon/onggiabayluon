@@ -17,8 +17,6 @@ This is the place where I opensource stuff and break things 🐧
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
----
-
 ### 📕 **Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
