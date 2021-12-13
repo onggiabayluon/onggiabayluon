@@ -58,11 +58,11 @@ This is the place where I opensource stuff and break things 🐧
   <br />
   
   <!-- BLOG-POST-LIST:START -->
-  - [Stoneshard Dagger &amp; Sword build #3 - Double second wind](https://www.youtube.com/watch?v=AwSQY4pLsWc)
-  - [Stoneshard Dagger &amp; Sword build #2 - Skeleton KingsGuard Boss Fight](https://www.youtube.com/watch?v=DCTPNEGE_e8)
-  - [Stoneshard Dagger &amp; Sword build #1 - Cultist Boss Fight](https://www.youtube.com/watch?v=Ru8aOuugKk4)
-  - [Darkest Dungeon Modded - Boss Fight &lpar;Levantine Janissary&rpar;](https://www.youtube.com/watch?v=gdMLhl8xl-g)
-  <!-- BLOG-POST-LIST:END -->
+- [Stoneshard Dagger &amp; Sword build #3 - Double second wind](https://www.youtube.com/watch?v=AwSQY4pLsWc)
+- [Stoneshard Dagger &amp; Sword build #2 - Skeleton KingsGuard Boss Fight](https://www.youtube.com/watch?v=DCTPNEGE_e8)
+- [Stoneshard Dagger &amp; Sword build #1 - Cultist Boss Fight](https://www.youtube.com/watch?v=Ru8aOuugKk4)
+- [Darkest Dungeon Modded - Boss Fight &lpar;Levantine Janissary&rpar;](https://www.youtube.com/watch?v=gdMLhl8xl-g)
+<!-- BLOG-POST-LIST:END -->
   
 </details>
 
