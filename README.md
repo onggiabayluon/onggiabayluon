@@ -7,42 +7,6 @@ This is the place where I opensource stuff and break things 🐧
 - 🐧 &nbsp;I’m currently working on something cool 🐧
 - 🐧 &nbsp;I’m currently learning everything 🐧
 
-### 🔗 &nbsp;Connect with me:
-
-[<img align="left" alt="Ducchuy | YouTube" height="30" width="40" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" />][youtube]
-[<img align="left" alt="Ducchuy | facebook" height="30" width="40" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" />][facebook]
-
-<br />
-
-### :zap: Recent GitHub Activity
-
-  <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#16](https://github.com/nguyen498/quanlikhachsan/pull/16) in [nguyen498/quanlikhachsan](https://github.com/nguyen498/quanlikhachsan)
-2. 💪 Opened PR [#16](https://github.com/nguyen498/quanlikhachsan/pull/16) in [nguyen498/quanlikhachsan](https://github.com/nguyen498/quanlikhachsan)
-3. 🎉 Merged PR [#15](https://github.com/nguyen498/quanlikhachsan/pull/15) in [nguyen498/quanlikhachsan](https://github.com/nguyen498/quanlikhachsan)
-4. 💪 Opened PR [#15](https://github.com/nguyen498/quanlikhachsan/pull/15) in [nguyen498/quanlikhachsan](https://github.com/nguyen498/quanlikhachsan)
-5. 🎉 Merged PR [#14](https://github.com/nguyen498/quanlikhachsan/pull/14) in [nguyen498/quanlikhachsan](https://github.com/nguyen498/quanlikhachsan)
-  <!--END_SECTION:activity-->
- 
- <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%20hrs%2058%20mins-blue)
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-HTML                     2 hrs 14 mins       ██████████████████░░░░░░░   74.66% 
-Python                   24 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.69% 
-Java                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.15% 
-Markdown                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.0% 
-JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.84%
-
-```
-
-
- Last Updated on 15/12/2021
-<!--END_SECTION:waka-->
-
 <details>
   <summary><b>✨&nbsp;&nbsp;About&nbsp;Me</b></summary>
   <br/>
@@ -80,6 +44,44 @@ JSON                     3 mins              ░░░░░░░░░░░�
 <!-- BLOG-POST-LIST:END -->
   
 </details>
+
+### 🔗 &nbsp;Connect with me:
+
+[<img align="left" alt="Ducchuy | YouTube" height="30" width="40" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" />][youtube]
+[<img align="left" alt="Ducchuy | facebook" height="30" width="40" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" />][facebook]
+
+<br />
+
+### :zap: Recent GitHub Activity
+
+  <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#16](https://github.com/nguyen498/quanlikhachsan/pull/16) in [nguyen498/quanlikhachsan](https://github.com/nguyen498/quanlikhachsan)
+2. 💪 Opened PR [#16](https://github.com/nguyen498/quanlikhachsan/pull/16) in [nguyen498/quanlikhachsan](https://github.com/nguyen498/quanlikhachsan)
+3. 🎉 Merged PR [#15](https://github.com/nguyen498/quanlikhachsan/pull/15) in [nguyen498/quanlikhachsan](https://github.com/nguyen498/quanlikhachsan)
+4. 💪 Opened PR [#15](https://github.com/nguyen498/quanlikhachsan/pull/15) in [nguyen498/quanlikhachsan](https://github.com/nguyen498/quanlikhachsan)
+5. 🎉 Merged PR [#14](https://github.com/nguyen498/quanlikhachsan/pull/14) in [nguyen498/quanlikhachsan](https://github.com/nguyen498/quanlikhachsan)
+  <!--END_SECTION:activity-->
+ 
+ <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-4%20hrs%2058%20mins-blue)
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+HTML                     2 hrs 14 mins       ██████████████████░░░░░░░   74.66% 
+Python                   24 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.69% 
+Java                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.15% 
+Markdown                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.0% 
+JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.84%
+
+```
+
+
+ Last Updated on 15/12/2021
+<!--END_SECTION:waka-->
+
+
 
 
 [facebook]: https://www.facebook.com/ducchuy123
