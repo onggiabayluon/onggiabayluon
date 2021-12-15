@@ -14,8 +14,6 @@ This is the place where I opensource stuff and break things 🐧
 
 <br />
 
-### 📊 This week I spent my time on
-
   <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-4%20hrs%2057%20mins-blue)
 
