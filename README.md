@@ -14,25 +14,6 @@ This is the place where I opensource stuff and break things 🐧
 
 <br />
 
-  <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%20hrs%2057%20mins-blue)
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-HTML                     2 hrs 14 mins       ██████████████████░░░░░░░   74.66% 
-Python                   24 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.69% 
-Java                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.15% 
-Markdown                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.0% 
-JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.84%
-
-```
-
-
- Last Updated on 15/12/2021
-<!--END_SECTION:waka-->
-
 ### :zap: Recent GitHub Activity
 
   <!--START_SECTION:activity-->
@@ -80,6 +61,25 @@ JSON                     3 mins              ░░░░░░░░░░░�
 <!-- BLOG-POST-LIST:END -->
   
 </details>
+
+<!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-4%20hrs%2057%20mins-blue)
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+HTML                     2 hrs 14 mins       ██████████████████░░░░░░░   74.66% 
+Python                   24 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.69% 
+Java                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.15% 
+Markdown                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.0% 
+JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.84%
+
+```
+
+
+ Last Updated on 15/12/2021
+<!--END_SECTION:waka-->
 
 [facebook]: https://www.facebook.com/ducchuy123
 [youtube]: https://www.youtube.com/channel/UCN-ZLyAreoGPC5rT4vj7aCw
