@@ -23,6 +23,25 @@ This is the place where I opensource stuff and break things 🐧
 4. 💪 Opened PR [#14](https://github.com/nguyen498/quanlikhachsan/pull/14) in [nguyen498/quanlikhachsan](https://github.com/nguyen498/quanlikhachsan)
 5. 🎉 Merged PR [#12](https://github.com/nguyen498/quanlikhachsan/pull/12) in [nguyen498/quanlikhachsan](https://github.com/nguyen498/quanlikhachsan)
   <!--END_SECTION:activity-->
+ 
+ <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-4%20hrs%2057%20mins-blue)
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+HTML                     2 hrs 14 mins       ██████████████████░░░░░░░   74.66% 
+Python                   24 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.69% 
+Java                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.15% 
+Markdown                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.0% 
+JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.84%
+
+```
+
+
+ Last Updated on 15/12/2021
+<!--END_SECTION:waka-->
 
 <details>
   <summary><b>✨&nbsp;&nbsp;About&nbsp;Me</b></summary>
@@ -62,24 +81,6 @@ This is the place where I opensource stuff and break things 🐧
   
 </details>
 
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%20hrs%2057%20mins-blue)
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-HTML                     2 hrs 14 mins       ██████████████████░░░░░░░   74.66% 
-Python                   24 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.69% 
-Java                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.15% 
-Markdown                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.0% 
-JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.84%
-
-```
-
-
- Last Updated on 15/12/2021
-<!--END_SECTION:waka-->
 
 [facebook]: https://www.facebook.com/ducchuy123
 [youtube]: https://www.youtube.com/channel/UCN-ZLyAreoGPC5rT4vj7aCw
