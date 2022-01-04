@@ -19,11 +19,11 @@ This is the place where I opensource stuff and break things 🐧
 ### :zap: Recent GitHub Activity
 
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#17](https://github.com/nguyen498/quanlikhachsan/pull/17) in [nguyen498/quanlikhachsan](https://github.com/nguyen498/quanlikhachsan)
-2. 💪 Opened PR [#17](https://github.com/nguyen498/quanlikhachsan/pull/17) in [nguyen498/quanlikhachsan](https://github.com/nguyen498/quanlikhachsan)
-3. 💪 Opened PR [#1](https://github.com/nguyen498/quanliduanjava/pull/1) in [nguyen498/quanliduanjava](https://github.com/nguyen498/quanliduanjava)
-4. 💪 Opened PR [#1](https://github.com/onggiabayluon/quanliduanjava/pull/1) in [onggiabayluon/quanliduanjava](https://github.com/onggiabayluon/quanliduanjava)
-5. 🎉 Merged PR [#16](https://github.com/nguyen498/quanlikhachsan/pull/16) in [nguyen498/quanlikhachsan](https://github.com/nguyen498/quanlikhachsan)
+1. 🎉 Merged PR [#18](https://github.com/nguyen498/quanlikhachsan/pull/18) in [nguyen498/quanlikhachsan](https://github.com/nguyen498/quanlikhachsan)
+2. 💪 Opened PR [#18](https://github.com/nguyen498/quanlikhachsan/pull/18) in [nguyen498/quanlikhachsan](https://github.com/nguyen498/quanlikhachsan)
+3. 🎉 Merged PR [#17](https://github.com/nguyen498/quanlikhachsan/pull/17) in [nguyen498/quanlikhachsan](https://github.com/nguyen498/quanlikhachsan)
+4. 💪 Opened PR [#17](https://github.com/nguyen498/quanlikhachsan/pull/17) in [nguyen498/quanlikhachsan](https://github.com/nguyen498/quanlikhachsan)
+5. 💪 Opened PR [#1](https://github.com/nguyen498/quanliduanjava/pull/1) in [nguyen498/quanliduanjava](https://github.com/nguyen498/quanliduanjava)
   <!--END_SECTION:activity-->
  
  <!--START_SECTION:waka-->
