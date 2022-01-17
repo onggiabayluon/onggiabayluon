@@ -75,10 +75,10 @@ Other                    0 secs              ░░░░░░░░░░░�
   <br />
   
   <!-- BLOG-POST-LIST:START -->
+- [The Dungeon Beneath - Healer Team - Final Boss Fight](https://www.youtube.com/watch?v=pO45BVKGAe8)
 - [Stoneshard Dagger &amp; Sword build #3 - Double second wind](https://www.youtube.com/watch?v=AwSQY4pLsWc)
 - [Stoneshard Dagger &amp; Sword build #2 - Skeleton KingsGuard Boss Fight](https://www.youtube.com/watch?v=DCTPNEGE_e8)
 - [Stoneshard Dagger &amp; Sword build #1 - Cultist Boss Fight](https://www.youtube.com/watch?v=Ru8aOuugKk4)
-- [Darkest Dungeon Modded - Boss Fight &lpar;Levantine Janissary&rpar;](https://www.youtube.com/watch?v=gdMLhl8xl-g)
 <!-- BLOG-POST-LIST:END -->
   
 </details>
