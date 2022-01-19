@@ -74,10 +74,10 @@ JavaScript               6 mins              ░░░░░░░░░░░�
   <br />
   
   <!-- BLOG-POST-LIST:START -->
+- [The Dungeon Beneath - Doom Team - Boss Fight](https://www.youtube.com/watch?v=kMhY_-D8ihM)
 - [The Dungeon Beneath - Healer Team - Final Boss Fight](https://www.youtube.com/watch?v=pO45BVKGAe8)
 - [Stoneshard Dagger &amp; Sword build #3 - Double second wind](https://www.youtube.com/watch?v=AwSQY4pLsWc)
 - [Stoneshard Dagger &amp; Sword build #2 - Skeleton KingsGuard Boss Fight](https://www.youtube.com/watch?v=DCTPNEGE_e8)
-- [Stoneshard Dagger &amp; Sword build #1 - Cultist Boss Fight](https://www.youtube.com/watch?v=Ru8aOuugKk4)
 <!-- BLOG-POST-LIST:END -->
   
 </details>
