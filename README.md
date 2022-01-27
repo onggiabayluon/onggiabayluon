@@ -19,11 +19,11 @@ This is the place where I opensource stuff and break things 🐧
 ### :zap: Recent GitHub Activity
 
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/onggiabayluon/QuanLySinhVien/pull/2) in [onggiabayluon/QuanLySinhVien](https://github.com/onggiabayluon/QuanLySinhVien)
-2. 💪 Opened PR [#2](https://github.com/onggiabayluon/QuanLySinhVien/pull/2) in [onggiabayluon/QuanLySinhVien](https://github.com/onggiabayluon/QuanLySinhVien)
-3. 🎉 Merged PR [#1](https://github.com/onggiabayluon/QuanLySinhVien/pull/1) in [onggiabayluon/QuanLySinhVien](https://github.com/onggiabayluon/QuanLySinhVien)
-4. 💪 Opened PR [#1](https://github.com/onggiabayluon/QuanLySinhVien/pull/1) in [onggiabayluon/QuanLySinhVien](https://github.com/onggiabayluon/QuanLySinhVien)
-5. 🎉 Merged PR [#26](https://github.com/nguyen498/quanlikhachsan/pull/26) in [nguyen498/quanlikhachsan](https://github.com/nguyen498/quanlikhachsan)
+1. 🎉 Merged PR [#3](https://github.com/onggiabayluon/QuanLySinhVien/pull/3) in [onggiabayluon/QuanLySinhVien](https://github.com/onggiabayluon/QuanLySinhVien)
+2. 💪 Opened PR [#3](https://github.com/onggiabayluon/QuanLySinhVien/pull/3) in [onggiabayluon/QuanLySinhVien](https://github.com/onggiabayluon/QuanLySinhVien)
+3. 🎉 Merged PR [#2](https://github.com/onggiabayluon/QuanLySinhVien/pull/2) in [onggiabayluon/QuanLySinhVien](https://github.com/onggiabayluon/QuanLySinhVien)
+4. 💪 Opened PR [#2](https://github.com/onggiabayluon/QuanLySinhVien/pull/2) in [onggiabayluon/QuanLySinhVien](https://github.com/onggiabayluon/QuanLySinhVien)
+5. 🎉 Merged PR [#1](https://github.com/onggiabayluon/QuanLySinhVien/pull/1) in [onggiabayluon/QuanLySinhVien](https://github.com/onggiabayluon/QuanLySinhVien)
   <!--END_SECTION:activity-->
  
  <!--START_SECTION:waka-->
