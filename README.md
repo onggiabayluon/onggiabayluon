@@ -19,11 +19,11 @@ This is the place where I opensource stuff and break things 🐧
 ### :zap: Recent GitHub Activity
 
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#10](https://github.com/onggiabayluon/QuanLySinhVien/pull/10) in [onggiabayluon/QuanLySinhVien](https://github.com/onggiabayluon/QuanLySinhVien)
-2. 💪 Opened PR [#10](https://github.com/onggiabayluon/QuanLySinhVien/pull/10) in [onggiabayluon/QuanLySinhVien](https://github.com/onggiabayluon/QuanLySinhVien)
-3. 🎉 Merged PR [#9](https://github.com/onggiabayluon/QuanLySinhVien/pull/9) in [onggiabayluon/QuanLySinhVien](https://github.com/onggiabayluon/QuanLySinhVien)
-4. 💪 Opened PR [#9](https://github.com/onggiabayluon/QuanLySinhVien/pull/9) in [onggiabayluon/QuanLySinhVien](https://github.com/onggiabayluon/QuanLySinhVien)
-5. 🎉 Merged PR [#8](https://github.com/onggiabayluon/QuanLySinhVien/pull/8) in [onggiabayluon/QuanLySinhVien](https://github.com/onggiabayluon/QuanLySinhVien)
+1. 🎉 Merged PR [#1](https://github.com/onggiabayluon/Test-App/pull/1) in [onggiabayluon/Test-App](https://github.com/onggiabayluon/Test-App)
+2. 💪 Opened PR [#1](https://github.com/onggiabayluon/Test-App/pull/1) in [onggiabayluon/Test-App](https://github.com/onggiabayluon/Test-App)
+3. 🎉 Merged PR [#10](https://github.com/onggiabayluon/QuanLySinhVien/pull/10) in [onggiabayluon/QuanLySinhVien](https://github.com/onggiabayluon/QuanLySinhVien)
+4. 💪 Opened PR [#10](https://github.com/onggiabayluon/QuanLySinhVien/pull/10) in [onggiabayluon/QuanLySinhVien](https://github.com/onggiabayluon/QuanLySinhVien)
+5. 🎉 Merged PR [#9](https://github.com/onggiabayluon/QuanLySinhVien/pull/9) in [onggiabayluon/QuanLySinhVien](https://github.com/onggiabayluon/QuanLySinhVien)
   <!--END_SECTION:activity-->
  
  <!--START_SECTION:waka-->
