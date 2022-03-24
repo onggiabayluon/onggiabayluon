@@ -75,10 +75,10 @@ JSON                     7 mins              ░░░░░░░░░░░�
   <br />
   
   <!-- BLOG-POST-LIST:START -->
+- [[Django] SaleApp Project](https://www.youtube.com/watch?v=LAwosJ25kJs)
 - [[Nodejs] Comic Website](https://www.youtube.com/watch?v=heUnNq5_LFI)
 - [The Dungeon Beneath - Doom Team - Boss Fight](https://www.youtube.com/watch?v=kMhY_-D8ihM)
 - [The Dungeon Beneath - Healer Team - Final Boss Fight](https://www.youtube.com/watch?v=pO45BVKGAe8)
-- [Stoneshard Dagger &amp; Sword build #3 - Double second wind](https://www.youtube.com/watch?v=AwSQY4pLsWc)
 <!-- BLOG-POST-LIST:END -->
   
 </details>
