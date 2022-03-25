@@ -19,11 +19,11 @@ This is the place where I opensource stuff and break things 🐧
 ### :zap: Recent GitHub Activity
 
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8](https://github.com/onggiabayluon/Djangosaleapp/pull/8) in [onggiabayluon/Djangosaleapp](https://github.com/onggiabayluon/Djangosaleapp)
-2. 💪 Opened PR [#8](https://github.com/onggiabayluon/Djangosaleapp/pull/8) in [onggiabayluon/Djangosaleapp](https://github.com/onggiabayluon/Djangosaleapp)
-3. 🎉 Merged PR [#7](https://github.com/onggiabayluon/Djangosaleapp/pull/7) in [onggiabayluon/Djangosaleapp](https://github.com/onggiabayluon/Djangosaleapp)
-4. 💪 Opened PR [#7](https://github.com/onggiabayluon/Djangosaleapp/pull/7) in [onggiabayluon/Djangosaleapp](https://github.com/onggiabayluon/Djangosaleapp)
-5. 🎉 Merged PR [#6](https://github.com/onggiabayluon/Djangosaleapp/pull/6) in [onggiabayluon/Djangosaleapp](https://github.com/onggiabayluon/Djangosaleapp)
+1. 🎉 Merged PR [#9](https://github.com/onggiabayluon/Djangosaleapp/pull/9) in [onggiabayluon/Djangosaleapp](https://github.com/onggiabayluon/Djangosaleapp)
+2. 💪 Opened PR [#9](https://github.com/onggiabayluon/Djangosaleapp/pull/9) in [onggiabayluon/Djangosaleapp](https://github.com/onggiabayluon/Djangosaleapp)
+3. 🎉 Merged PR [#8](https://github.com/onggiabayluon/Djangosaleapp/pull/8) in [onggiabayluon/Djangosaleapp](https://github.com/onggiabayluon/Djangosaleapp)
+4. 💪 Opened PR [#8](https://github.com/onggiabayluon/Djangosaleapp/pull/8) in [onggiabayluon/Djangosaleapp](https://github.com/onggiabayluon/Djangosaleapp)
+5. 🎉 Merged PR [#7](https://github.com/onggiabayluon/Djangosaleapp/pull/7) in [onggiabayluon/Djangosaleapp](https://github.com/onggiabayluon/Djangosaleapp)
   <!--END_SECTION:activity-->
  
  <!--START_SECTION:waka-->
