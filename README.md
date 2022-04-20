@@ -31,12 +31,14 @@ This is the place where I opensource stuff and break things 🐧
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   1 hr 15 mins        ████████████████████████░   97.67% 
+Git Config               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   1.29% 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.04%
 
 ```
 
 
- Last Updated on 19/04/2022 18:46:54 UTC
+ Last Updated on 20/04/2022 18:44:15 UTC
 <!--END_SECTION:waka-->
 
 
