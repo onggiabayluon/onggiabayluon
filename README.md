@@ -27,7 +27,7 @@ This is the place where I opensource stuff and break things 🐧
   <!--END_SECTION:activity-->
  
  <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -42,7 +42,7 @@ Markdown                 2 mins              ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 11/05/2022 18:47:21 UTC
+ Last Updated on 12/05/2022 18:49:49 UTC
 <!--END_SECTION:waka-->
 
 
