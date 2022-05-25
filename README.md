@@ -73,10 +73,10 @@ No Activity Tracked This Week
   <br />
   
   <!-- BLOG-POST-LIST:START -->
+- [Weird mantis team &lpar;Super Auto Pets&rpar;](https://www.youtube.com/watch?v=-c7NeIms4RY)
 - [This weekly is pure chaos &lpar;Super Auto Pets&rpar;](https://www.youtube.com/watch?v=YAlo5Zi6T5E)
 - [[Django] SaleApp Project](https://www.youtube.com/watch?v=LAwosJ25kJs)
 - [[Nodejs] Comic Website](https://www.youtube.com/watch?v=heUnNq5_LFI)
-- [The Dungeon Beneath - Doom Team - Boss Fight](https://www.youtube.com/watch?v=kMhY_-D8ihM)
 <!-- BLOG-POST-LIST:END -->
   
 </details>
