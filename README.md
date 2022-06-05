@@ -33,15 +33,12 @@ This is the place where I opensource stuff and break things 🐧
 
 ```text
 💬 Programming Languages: 
-YAML                     39 mins             ███████████████████░░░░░░   76.16% 
-Markdown                 9 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.69% 
-Other                    3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   6.11% 
-Docker                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.04%
+No Activity Tracked This Week
 
 ```
 
 
- Last Updated on 04/06/2022 18:41:50 UTC
+ Last Updated on 05/06/2022 18:42:59 UTC
 <!--END_SECTION:waka-->
 
 
