@@ -33,12 +33,12 @@ This is the place where I opensource stuff and break things 🐧
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Java                     59 mins             █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 08/06/2022 18:44:36 UTC
+ Last Updated on 09/06/2022 18:44:35 UTC
 <!--END_SECTION:waka-->
 
 
