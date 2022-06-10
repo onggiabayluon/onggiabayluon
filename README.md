@@ -33,12 +33,12 @@ This is the place where I opensource stuff and break things 🐧
 
 ```text
 💬 Programming Languages: 
-Java                     59 mins             █████████████████████████   100.0%
+Java                     1 hr 40 mins        █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 09/06/2022 18:44:35 UTC
+ Last Updated on 10/06/2022 18:46:56 UTC
 <!--END_SECTION:waka-->
 
 
