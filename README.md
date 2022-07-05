@@ -77,10 +77,10 @@ XML                      0 secs              ░░░░░░░░░░░�
   <br />
   
   <!-- BLOG-POST-LIST:START -->
+- [Scumbag team &lpar;Super Auto Pets Weekly&rpar;](https://www.youtube.com/watch?v=66VuuFqtLSE)
 - [Lv3 Woodpecker &lpar;Super Auto Pets&rpar;](https://www.youtube.com/watch?v=6bydIqsVIKI)
 - [Weird mantis team &lpar;Super Auto Pets&rpar;](https://www.youtube.com/watch?v=-c7NeIms4RY)
 - [This weekly is pure chaos &lpar;Super Auto Pets&rpar;](https://www.youtube.com/watch?v=YAlo5Zi6T5E)
-- [[Django] SaleApp Project](https://www.youtube.com/watch?v=LAwosJ25kJs)
 <!-- BLOG-POST-LIST:END -->
   
 </details>
