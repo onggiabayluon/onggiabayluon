@@ -19,11 +19,11 @@ This is the place where I opensource stuff and break things 🐧
 ### :zap: Recent GitHub Activity
 
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/onggiabayluon/bus-app/pull/2) in [onggiabayluon/bus-app](https://github.com/onggiabayluon/bus-app)
-2. 💪 Opened PR [#2](https://github.com/onggiabayluon/bus-app/pull/2) in [onggiabayluon/bus-app](https://github.com/onggiabayluon/bus-app)
-3. 🎉 Merged PR [#1](https://github.com/onggiabayluon/bus-app/pull/1) in [onggiabayluon/bus-app](https://github.com/onggiabayluon/bus-app)
-4. 💪 Opened PR [#1](https://github.com/onggiabayluon/bus-app/pull/1) in [onggiabayluon/bus-app](https://github.com/onggiabayluon/bus-app)
-5. 🎉 Merged PR [#5](https://github.com/onggiabayluon/fullstack-comic-app/pull/5) in [onggiabayluon/fullstack-comic-app](https://github.com/onggiabayluon/fullstack-comic-app)
+1. 🎉 Merged PR [#3](https://github.com/onggiabayluon/bus-app/pull/3) in [onggiabayluon/bus-app](https://github.com/onggiabayluon/bus-app)
+2. 💪 Opened PR [#3](https://github.com/onggiabayluon/bus-app/pull/3) in [onggiabayluon/bus-app](https://github.com/onggiabayluon/bus-app)
+3. 🎉 Merged PR [#2](https://github.com/onggiabayluon/bus-app/pull/2) in [onggiabayluon/bus-app](https://github.com/onggiabayluon/bus-app)
+4. 💪 Opened PR [#2](https://github.com/onggiabayluon/bus-app/pull/2) in [onggiabayluon/bus-app](https://github.com/onggiabayluon/bus-app)
+5. 🎉 Merged PR [#1](https://github.com/onggiabayluon/bus-app/pull/1) in [onggiabayluon/bus-app](https://github.com/onggiabayluon/bus-app)
   <!--END_SECTION:activity-->
  
  <!--START_SECTION:waka-->
