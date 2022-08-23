@@ -33,13 +33,12 @@ This is the place where I opensource stuff and break things 🐧
 
 ```text
 💬 Programming Languages: 
-Python                   2 mins              ████████████░░░░░░░░░░░░░   50.97% 
-Bash                     2 mins              ████████████░░░░░░░░░░░░░   49.03%
+No Activity Tracked This Week
 
 ```
 
 
- Last Updated on 22/08/2022 18:46:53 UTC
+ Last Updated on 23/08/2022 18:47:22 UTC
 <!--END_SECTION:waka-->
 
 
