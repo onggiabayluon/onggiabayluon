@@ -65,10 +65,10 @@ This is the place where I opensource stuff and break things 🐧
   <br />
   
   <!-- BLOG-POST-LIST:START -->
+- [Tank Mage build | Cult Leader Boss Fight &lpar;Stoneshard&rpar;](https://www.youtube.com/watch?v=OOsMvxEWaFU)
 - [Scumbag team &lpar;Super Auto Pets Weekly&rpar;](https://www.youtube.com/watch?v=66VuuFqtLSE)
 - [Lv3 Woodpecker &lpar;Super Auto Pets&rpar;](https://www.youtube.com/watch?v=6bydIqsVIKI)
 - [Weird mantis team &lpar;Super Auto Pets&rpar;](https://www.youtube.com/watch?v=-c7NeIms4RY)
-- [This weekly is pure chaos &lpar;Super Auto Pets&rpar;](https://www.youtube.com/watch?v=YAlo5Zi6T5E)
 <!-- BLOG-POST-LIST:END -->
   
 </details>
