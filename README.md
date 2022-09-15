@@ -19,11 +19,11 @@ This is the place where I opensource stuff and break things 🐧
 ### :zap: Recent GitHub Activity
 
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8](https://github.com/onggiabayluon/fullstack-comic-app/pull/8) in [onggiabayluon/fullstack-comic-app](https://github.com/onggiabayluon/fullstack-comic-app)
-2. 💪 Opened PR [#8](https://github.com/onggiabayluon/fullstack-comic-app/pull/8) in [onggiabayluon/fullstack-comic-app](https://github.com/onggiabayluon/fullstack-comic-app)
-3. 🎉 Merged PR [#7](https://github.com/onggiabayluon/fullstack-comic-app/pull/7) in [onggiabayluon/fullstack-comic-app](https://github.com/onggiabayluon/fullstack-comic-app)
-4. 💪 Opened PR [#7](https://github.com/onggiabayluon/fullstack-comic-app/pull/7) in [onggiabayluon/fullstack-comic-app](https://github.com/onggiabayluon/fullstack-comic-app)
-5. 🎉 Merged PR [#3](https://github.com/onggiabayluon/ASP-hotel-api/pull/3) in [onggiabayluon/ASP-hotel-api](https://github.com/onggiabayluon/ASP-hotel-api)
+1. 🎉 Merged PR [#9](https://github.com/onggiabayluon/fullstack-comic-app/pull/9) in [onggiabayluon/fullstack-comic-app](https://github.com/onggiabayluon/fullstack-comic-app)
+2. 💪 Opened PR [#9](https://github.com/onggiabayluon/fullstack-comic-app/pull/9) in [onggiabayluon/fullstack-comic-app](https://github.com/onggiabayluon/fullstack-comic-app)
+3. 🎉 Merged PR [#8](https://github.com/onggiabayluon/fullstack-comic-app/pull/8) in [onggiabayluon/fullstack-comic-app](https://github.com/onggiabayluon/fullstack-comic-app)
+4. 💪 Opened PR [#8](https://github.com/onggiabayluon/fullstack-comic-app/pull/8) in [onggiabayluon/fullstack-comic-app](https://github.com/onggiabayluon/fullstack-comic-app)
+5. 🎉 Merged PR [#7](https://github.com/onggiabayluon/fullstack-comic-app/pull/7) in [onggiabayluon/fullstack-comic-app](https://github.com/onggiabayluon/fullstack-comic-app)
   <!--END_SECTION:activity-->
  
  <!--START_SECTION:waka-->
