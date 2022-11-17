@@ -77,10 +77,10 @@ JSON                     19 mins             ░░░░░░░░░░░�
   <br />
   
   <!-- BLOG-POST-LIST:START -->
+- [This is why we buy Sabertooth &lpar;Super Auto Pets&rpar;](https://www.youtube.com/watch?v=ZraHBUCQSdA)
 - [Tank Mage build | Cult Leader Boss Fight &lpar;Stoneshard&rpar;](https://www.youtube.com/watch?v=OOsMvxEWaFU)
 - [Scumbag team &lpar;Super Auto Pets Weekly&rpar;](https://www.youtube.com/watch?v=66VuuFqtLSE)
 - [Lv3 Woodpecker &lpar;Super Auto Pets&rpar;](https://www.youtube.com/watch?v=6bydIqsVIKI)
-- [Weird mantis team &lpar;Super Auto Pets&rpar;](https://www.youtube.com/watch?v=-c7NeIms4RY)
 <!-- BLOG-POST-LIST:END -->
   
 </details>
