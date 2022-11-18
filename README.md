@@ -77,7 +77,7 @@ JSON                     19 mins             ░░░░░░░░░░░�
   <br />
   
   <!-- BLOG-POST-LIST:START -->
-- [Sabertooth Tiger actually paid off &lpar;Super Auto Pets&rpar;](https://www.youtube.com/watch?v=I3j0eVHOOmo)
+- [Sabertooth Tiger actually paid off &lpar;Super Auto Pets&rpar; #shorts](https://www.youtube.com/watch?v=I3j0eVHOOmo)
 - [Tank Mage build | Cult Leader Boss Fight &lpar;Stoneshard&rpar;](https://www.youtube.com/watch?v=OOsMvxEWaFU)
 - [Scumbag team &lpar;Super Auto Pets Weekly&rpar;](https://www.youtube.com/watch?v=66VuuFqtLSE)
 - [Lv3 Woodpecker &lpar;Super Auto Pets&rpar;](https://www.youtube.com/watch?v=6bydIqsVIKI)
