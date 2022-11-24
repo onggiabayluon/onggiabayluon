@@ -33,15 +33,12 @@ This is the place where I opensource stuff and break things 🐧
 
 ```text
 💬 Programming Languages: 
-JavaScript               1 hr 5 mins         ████████████████████████░   98.34% 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.02% 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.63% 
-CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.01%
+No Activity Tracked This Week
 
 ```
 
 
- Last Updated on 23/11/2022 18:41:42 UTC
+ Last Updated on 24/11/2022 18:42:27 UTC
 <!--END_SECTION:waka-->
 
 
