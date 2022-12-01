@@ -5,7 +5,7 @@
 This is the place where I opensource stuff and break things 🐧
 
 - 🐧 &nbsp;I’m currently working on something cool 🐧
-- 🐧 &nbsp;I’m currently learning everything 🐧
+- 🐧 &nbsp;I’m currently learning Next.js, React.js, advanced react pattern 🐧
 
 
 
