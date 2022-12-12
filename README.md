@@ -29,20 +29,8 @@ This is the place where I opensource stuff and break things 🐧
  <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-475%20hrs%2039%20mins-blue)
 
-📊 **This Week I Spent My Time On** 
 
-```text
-💬 Programming Languages: 
-JavaScript               13 hrs 57 mins      ███████████████████░░░░░░   76.62% 
-Markdown                 1 hr 51 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   10.21% 
-JSON                     1 hr 17 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   7.09% 
-MDX                      40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.71% 
-CSS                      18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.72%
-
-```
-
-
- Last Updated on 11/12/2022 18:38:46 UTC
+ Last Updated on 12/12/2022 18:41:26 UTC
 <!--END_SECTION:waka-->
 
 
