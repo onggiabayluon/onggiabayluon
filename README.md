@@ -19,8 +19,8 @@ This is the place where I opensource stuff and break things 🐧
 ### :zap: Recent GitHub Activity
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3555](https://github.com/awesome-jobs/vietnam/issues/3555) in [awesome-jobs/vietnam](https://github.com/awesome-jobs/vietnam)
-2. 🎉 Merged PR [#7](https://github.com/onggiabayluon/bus-app/pull/7) in [onggiabayluon/bus-app](https://github.com/onggiabayluon/bus-app)
+1. 🗣 Commented on [#17](https://github.com/onggiabayluon/fullstack-comic-app/issues/17) in [onggiabayluon/fullstack-comic-app](https://github.com/onggiabayluon/fullstack-comic-app)
+2. 🗣 Commented on [#17](https://github.com/onggiabayluon/fullstack-comic-app/issues/17) in [onggiabayluon/fullstack-comic-app](https://github.com/onggiabayluon/fullstack-comic-app)
 3. 💪 Opened PR [#7](https://github.com/onggiabayluon/bus-app/pull/7) in [onggiabayluon/bus-app](https://github.com/onggiabayluon/bus-app)
 4. 🎉 Merged PR [#16](https://github.com/onggiabayluon/fullstack-comic-app/pull/16) in [onggiabayluon/fullstack-comic-app](https://github.com/onggiabayluon/fullstack-comic-app)
 5. 💪 Opened PR [#16](https://github.com/onggiabayluon/fullstack-comic-app/pull/16) in [onggiabayluon/fullstack-comic-app](https://github.com/onggiabayluon/fullstack-comic-app)
