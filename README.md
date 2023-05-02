@@ -19,10 +19,10 @@ This is the place where I opensource stuff and break things 🐧
 ### :zap: Recent GitHub Activity
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#17](https://github.com/onggiabayluon/fullstack-comic-app/issues/17) in [onggiabayluon/fullstack-comic-app](https://github.com/onggiabayluon/fullstack-comic-app)
-2. 🗣 Commented on [#17](https://github.com/onggiabayluon/fullstack-comic-app/issues/17) in [onggiabayluon/fullstack-comic-app](https://github.com/onggiabayluon/fullstack-comic-app)
-3. 💪 Opened PR [#7](https://github.com/onggiabayluon/bus-app/pull/7) in [onggiabayluon/bus-app](https://github.com/onggiabayluon/bus-app)
-4. 🎉 Merged PR [#16](https://github.com/onggiabayluon/fullstack-comic-app/pull/16) in [onggiabayluon/fullstack-comic-app](https://github.com/onggiabayluon/fullstack-comic-app)
+1. 🎉 Merged PR [#6](https://github.com/onggiabayluon/comic-node-docker/pull/6) in [onggiabayluon/comic-node-docker](https://github.com/onggiabayluon/comic-node-docker)
+2. 💪 Opened PR [#6](https://github.com/onggiabayluon/comic-node-docker/pull/6) in [onggiabayluon/comic-node-docker](https://github.com/onggiabayluon/comic-node-docker)
+3. 🗣 Commented on [#17](https://github.com/onggiabayluon/fullstack-comic-app/issues/17) in [onggiabayluon/fullstack-comic-app](https://github.com/onggiabayluon/fullstack-comic-app)
+4. 🗣 Commented on [#17](https://github.com/onggiabayluon/fullstack-comic-app/issues/17) in [onggiabayluon/fullstack-comic-app](https://github.com/onggiabayluon/fullstack-comic-app)
 5. 💪 Opened PR [#16](https://github.com/onggiabayluon/fullstack-comic-app/pull/16) in [onggiabayluon/fullstack-comic-app](https://github.com/onggiabayluon/fullstack-comic-app)
   <!--END_SECTION:activity-->
  
