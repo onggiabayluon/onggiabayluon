@@ -72,7 +72,7 @@ No Activity Tracked This Week
   <br />
   
   <!-- BLOG-POST-LIST:START -->
-- [4 Cycles - E0 Kafka SW + E4 Sampo showcase - Honkai Starrail](https://www.youtube.com/watch?v=ewbj4neDLZg)
+- [4 Cycles E0 Kafka SW + Break Effect Sampo | Honkai: Star Rail](https://www.youtube.com/watch?v=ewbj4neDLZg)
 - [Goodnight Android Wallpaper setup | Redmi K50 Miui 14](https://www.youtube.com/watch?v=zLwkkq2siIU)
 - [Sabertooth Tiger actually paid off &lpar;Super Auto Pets&rpar; #shorts](https://www.youtube.com/watch?v=I3j0eVHOOmo)
 - [Tank Mage build | Cult Leader Boss Fight &lpar;Stoneshard&rpar;](https://www.youtube.com/watch?v=OOsMvxEWaFU)
