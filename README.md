@@ -72,10 +72,10 @@ No Activity Tracked This Week
   <br />
   
   <!-- BLOG-POST-LIST:START -->
+- [The underated SS tier team | Honkai: Star Rail - Aetherium Wars Event](https://www.youtube.com/watch?v=mRnrCZJ1f6Y)
 - [Seele at home](https://www.youtube.com/watch?v=Srqs33bdoPM)
 - [Goodnight Android Wallpaper setup | Redmi K50 Miui 14](https://www.youtube.com/watch?v=zLwkkq2siIU)
 - [Sabertooth Tiger actually paid off &lpar;Super Auto Pets&rpar; #shorts](https://www.youtube.com/watch?v=I3j0eVHOOmo)
-- [Tank Mage build | Cult Leader Boss Fight &lpar;Stoneshard&rpar;](https://www.youtube.com/watch?v=OOsMvxEWaFU)
 <!-- BLOG-POST-LIST:END -->
   
 </details>
