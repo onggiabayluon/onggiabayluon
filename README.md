@@ -33,11 +33,11 @@ This is the place where I opensource stuff and break things 🐧
 
 ```text
 💬 Programming Languages: 
-Assembly                 13 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 29/11/2023 18:35:01 UTC
+ Last Updated on 30/11/2023 18:35:59 UTC
 <!--END_SECTION:waka-->
 
 
