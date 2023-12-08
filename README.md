@@ -27,17 +27,19 @@ This is the place where I opensource stuff and break things 🐧
   <!--END_SECTION:activity-->
  
  <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-703%20hrs%203%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-703%20hrs%2011%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+JSON                     5 mins              ██████████████████░░░░░░░   70.86 % 
+Bash                     1 min               ████░░░░░░░░░░░░░░░░░░░░░   15.26 % 
+Other                    1 min               ███░░░░░░░░░░░░░░░░░░░░░░   13.88 % 
 ```
 
 
- Last Updated on 07/12/2023 18:36:11 UTC
+ Last Updated on 08/12/2023 18:35:43 UTC
 <!--END_SECTION:waka-->
 
 
