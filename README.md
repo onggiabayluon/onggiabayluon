@@ -19,8 +19,8 @@ This is the place where I opensource stuff and break things 🐧
 ### :zap: Recent GitHub Activity
 
   <!--START_SECTION:activity-->
-1. ❗ Opened issue [#62](https://github.com/EliverLara/Juno/issues/62) in [EliverLara/Juno](https://github.com/EliverLara/Juno)
-2. 🗣 Commented on [#18](https://github.com/onggiabayluon/fullstack-comic-app/issues/18#issuecomment-1586878238) in [onggiabayluon/fullstack-comic-app](https://github.com/onggiabayluon/fullstack-comic-app)
+1. 🎉 Merged PR [#1](https://github.com/Freelancer-god/dnwf-management-fe/pull/1) in [Freelancer-god/dnwf-management-fe](https://github.com/Freelancer-god/dnwf-management-fe)
+2. 💪 Opened PR [#1](https://github.com/Freelancer-god/dnwf-management-fe/pull/1) in [Freelancer-god/dnwf-management-fe](https://github.com/Freelancer-god/dnwf-management-fe)
 3. 🎉 Merged PR [#7](https://github.com/onggiabayluon/comic-node-docker/pull/7) in [onggiabayluon/comic-node-docker](https://github.com/onggiabayluon/comic-node-docker)
 4. 💪 Opened PR [#7](https://github.com/onggiabayluon/comic-node-docker/pull/7) in [onggiabayluon/comic-node-docker](https://github.com/onggiabayluon/comic-node-docker)
 5. 🎉 Merged PR [#6](https://github.com/onggiabayluon/comic-node-docker/pull/6) in [onggiabayluon/comic-node-docker](https://github.com/onggiabayluon/comic-node-docker)
