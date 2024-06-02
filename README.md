@@ -19,10 +19,10 @@ This is the place where I opensource stuff and break things 🐧
 ### :zap: Recent GitHub Activity
 
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/Freelancer-god/dnwf-management-fe/pull/1) in [Freelancer-god/dnwf-management-fe](https://github.com/Freelancer-god/dnwf-management-fe)
-2. 💪 Opened PR [#1](https://github.com/Freelancer-god/dnwf-management-fe/pull/1) in [Freelancer-god/dnwf-management-fe](https://github.com/Freelancer-god/dnwf-management-fe)
-3. 🎉 Merged PR [#7](https://github.com/onggiabayluon/comic-node-docker/pull/7) in [onggiabayluon/comic-node-docker](https://github.com/onggiabayluon/comic-node-docker)
-4. 💪 Opened PR [#7](https://github.com/onggiabayluon/comic-node-docker/pull/7) in [onggiabayluon/comic-node-docker](https://github.com/onggiabayluon/comic-node-docker)
+1. 🎉 Merged PR [#2](https://github.com/Freelancer-god/dnwf-management-fe/pull/2) in [Freelancer-god/dnwf-management-fe](https://github.com/Freelancer-god/dnwf-management-fe)
+2. 💪 Opened PR [#2](https://github.com/Freelancer-god/dnwf-management-fe/pull/2) in [Freelancer-god/dnwf-management-fe](https://github.com/Freelancer-god/dnwf-management-fe)
+3. 🎉 Merged PR [#1](https://github.com/Freelancer-god/dnwf-management-fe/pull/1) in [Freelancer-god/dnwf-management-fe](https://github.com/Freelancer-god/dnwf-management-fe)
+4. 💪 Opened PR [#1](https://github.com/Freelancer-god/dnwf-management-fe/pull/1) in [Freelancer-god/dnwf-management-fe](https://github.com/Freelancer-god/dnwf-management-fe)
 5. 🎉 Merged PR [#6](https://github.com/onggiabayluon/comic-node-docker/pull/6) in [onggiabayluon/comic-node-docker](https://github.com/onggiabayluon/comic-node-docker)
   <!--END_SECTION:activity-->
  
