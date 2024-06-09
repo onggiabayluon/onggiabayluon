@@ -19,11 +19,11 @@ This is the place where I opensource stuff and break things 🐧
 ### :zap: Recent GitHub Activity
 
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/Freelancer-god/dnwf-management-fe/pull/7) in [Freelancer-god/dnwf-management-fe](https://github.com/Freelancer-god/dnwf-management-fe)
-2. 💪 Opened PR [#7](https://github.com/Freelancer-god/dnwf-management-fe/pull/7) in [Freelancer-god/dnwf-management-fe](https://github.com/Freelancer-god/dnwf-management-fe)
-3. 🎉 Merged PR [#6](https://github.com/Freelancer-god/dnwf-management-fe/pull/6) in [Freelancer-god/dnwf-management-fe](https://github.com/Freelancer-god/dnwf-management-fe)
-4. 💪 Opened PR [#6](https://github.com/Freelancer-god/dnwf-management-fe/pull/6) in [Freelancer-god/dnwf-management-fe](https://github.com/Freelancer-god/dnwf-management-fe)
-5. 🎉 Merged PR [#5](https://github.com/Freelancer-god/dnwf-management-fe/pull/5) in [Freelancer-god/dnwf-management-fe](https://github.com/Freelancer-god/dnwf-management-fe)
+1. 🎉 Merged PR [#8](https://github.com/Freelancer-god/dnwf-management-fe/pull/8) in [Freelancer-god/dnwf-management-fe](https://github.com/Freelancer-god/dnwf-management-fe)
+2. 💪 Opened PR [#8](https://github.com/Freelancer-god/dnwf-management-fe/pull/8) in [Freelancer-god/dnwf-management-fe](https://github.com/Freelancer-god/dnwf-management-fe)
+3. 🎉 Merged PR [#7](https://github.com/Freelancer-god/dnwf-management-fe/pull/7) in [Freelancer-god/dnwf-management-fe](https://github.com/Freelancer-god/dnwf-management-fe)
+4. 💪 Opened PR [#7](https://github.com/Freelancer-god/dnwf-management-fe/pull/7) in [Freelancer-god/dnwf-management-fe](https://github.com/Freelancer-god/dnwf-management-fe)
+5. 🎉 Merged PR [#6](https://github.com/Freelancer-god/dnwf-management-fe/pull/6) in [Freelancer-god/dnwf-management-fe](https://github.com/Freelancer-god/dnwf-management-fe)
   <!--END_SECTION:activity-->
  
  <!--START_SECTION:waka-->
