@@ -19,7 +19,7 @@ This is the place where I opensource stuff and break things 🐧
 ### :zap: Recent GitHub Activity
 
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#17](https://github.com/Freelancer-god/dnwf-management-fe/pull/17) in [Freelancer-god/dnwf-management-fe](https://github.com/Freelancer-god/dnwf-management-fe)
+1. 🗣 Commented on [#252](https://github.com/thredup/rollbar-sourcemap-webpack-plugin/issues/252#issuecomment-2655667423) in [thredup/rollbar-sourcemap-webpack-plugin](https://github.com/thredup/rollbar-sourcemap-webpack-plugin)
 2. 💪 Opened PR [#17](https://github.com/Freelancer-god/dnwf-management-fe/pull/17) in [Freelancer-god/dnwf-management-fe](https://github.com/Freelancer-god/dnwf-management-fe)
 3. 🎉 Merged PR [#16](https://github.com/Freelancer-god/dnwf-management-fe/pull/16) in [Freelancer-god/dnwf-management-fe](https://github.com/Freelancer-god/dnwf-management-fe)
 4. 💪 Opened PR [#16](https://github.com/Freelancer-god/dnwf-management-fe/pull/16) in [Freelancer-god/dnwf-management-fe](https://github.com/Freelancer-god/dnwf-management-fe)
