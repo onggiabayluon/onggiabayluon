@@ -19,8 +19,8 @@ This is the place where I opensource stuff and break things 🐧
 ### :zap: Recent GitHub Activity
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#252](https://github.com/thredup/rollbar-sourcemap-webpack-plugin/issues/252#issuecomment-2655667423) in [thredup/rollbar-sourcemap-webpack-plugin](https://github.com/thredup/rollbar-sourcemap-webpack-plugin)
-2. 💪 Opened PR [#17](https://github.com/Freelancer-god/dnwf-management-fe/pull/17) in [Freelancer-god/dnwf-management-fe](https://github.com/Freelancer-god/dnwf-management-fe)
+1. 🗣 Commented on [#1106](https://github.com/fluent-ffmpeg/node-fluent-ffmpeg/issues/1106#issuecomment-2664437449) in [fluent-ffmpeg/node-fluent-ffmpeg](https://github.com/fluent-ffmpeg/node-fluent-ffmpeg)
+2. 🗣 Commented on [#252](https://github.com/thredup/rollbar-sourcemap-webpack-plugin/issues/252#issuecomment-2655667423) in [thredup/rollbar-sourcemap-webpack-plugin](https://github.com/thredup/rollbar-sourcemap-webpack-plugin)
 3. 🎉 Merged PR [#16](https://github.com/Freelancer-god/dnwf-management-fe/pull/16) in [Freelancer-god/dnwf-management-fe](https://github.com/Freelancer-god/dnwf-management-fe)
 4. 💪 Opened PR [#16](https://github.com/Freelancer-god/dnwf-management-fe/pull/16) in [Freelancer-god/dnwf-management-fe](https://github.com/Freelancer-god/dnwf-management-fe)
 5. 🎉 Merged PR [#15](https://github.com/Freelancer-god/dnwf-management-fe/pull/15) in [Freelancer-god/dnwf-management-fe](https://github.com/Freelancer-god/dnwf-management-fe)
