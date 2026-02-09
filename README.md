@@ -2,11 +2,7 @@
 
 ![counter](https://enw1qku56qiqbo4.m.pipedream.net)
 
-This is the place where I opensource stuff and break things 🐧
-
-- 🐧 &nbsp;I’m currently working on something cool 🐧
-- 🐧 &nbsp;I’m currently learning Next.js, React.js, advanced react pattern 🐧
-
+This is the place where I opensource stuff and break things 
 
 
 ### 🔗 &nbsp;Connect with me:
