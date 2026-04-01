@@ -15,8 +15,8 @@ This is the place where I opensource stuff and break things
 ### :zap: Recent GitHub Activity
 
   <!--START_SECTION:activity-->
-1. ❗ Opened issue [#271643](https://github.com/microsoft/vscode/issues/271643) in [microsoft/vscode](https://github.com/microsoft/vscode)
-2. 🗣 Commented on [#252](https://github.com/thredup/rollbar-sourcemap-webpack-plugin/issues/252#issuecomment-2655667423) in [thredup/rollbar-sourcemap-webpack-plugin](https://github.com/thredup/rollbar-sourcemap-webpack-plugin)
+1. 🎉 Merged PR [#2](https://github.com/onggiabayluon/my-test-app/pull/2) in [onggiabayluon/my-test-app](https://github.com/onggiabayluon/my-test-app)
+2. 💪 Opened PR [#2](https://github.com/onggiabayluon/my-test-app/pull/2) in [onggiabayluon/my-test-app](https://github.com/onggiabayluon/my-test-app)
 3. 🎉 Merged PR [#16](https://github.com/Freelancer-god/dnwf-management-fe/pull/16) in [Freelancer-god/dnwf-management-fe](https://github.com/Freelancer-god/dnwf-management-fe)
 4. 💪 Opened PR [#16](https://github.com/Freelancer-god/dnwf-management-fe/pull/16) in [Freelancer-god/dnwf-management-fe](https://github.com/Freelancer-god/dnwf-management-fe)
 5. 🎉 Merged PR [#15](https://github.com/Freelancer-god/dnwf-management-fe/pull/15) in [Freelancer-god/dnwf-management-fe](https://github.com/Freelancer-god/dnwf-management-fe)
