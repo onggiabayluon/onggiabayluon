@@ -2,14 +2,7 @@
 
 ![counter](https://enw1qku56qiqbo4.m.pipedream.net)
 
-This is the place where I opensource stuff and break things 
-
-
-### 🔗 &nbsp;Connect with me:
-
-[<img align="left" alt="Ducchuy | facebook" height="30" width="40" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" />][facebook]
-
-<br />
+This is the place where I opensource stuff and break things
 
 ### :zap: Recent GitHub Activity
 
