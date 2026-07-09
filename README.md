@@ -7,7 +7,7 @@ This is the place where I opensource stuff and break things
 ### :zap: Recent GitHub Activity
 
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/onggiabayluon/my-test-app/pull/2) in [onggiabayluon/my-test-app](https://github.com/onggiabayluon/my-test-app)
+1. 🗣 Commented on [#69](https://github.com/Frosthaven/voicemeeter-windows-volume/issues/69#issuecomment-4921351185) in [Frosthaven/voicemeeter-windows-volume](https://github.com/Frosthaven/voicemeeter-windows-volume)
 2. 💪 Opened PR [#2](https://github.com/onggiabayluon/my-test-app/pull/2) in [onggiabayluon/my-test-app](https://github.com/onggiabayluon/my-test-app)
 3. 🎉 Merged PR [#16](https://github.com/Freelancer-god/dnwf-management-fe/pull/16) in [Freelancer-god/dnwf-management-fe](https://github.com/Freelancer-god/dnwf-management-fe)
 4. 💪 Opened PR [#16](https://github.com/Freelancer-god/dnwf-management-fe/pull/16) in [Freelancer-god/dnwf-management-fe](https://github.com/Freelancer-god/dnwf-management-fe)
