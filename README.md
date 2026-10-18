@@ -7,7 +7,7 @@ This is the place where I opensource stuff and break things
 ### :zap: Recent GitHub Activity
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#69](https://github.com/Frosthaven/voicemeeter-windows-volume/issues/69#issuecomment-4940173102) in [Frosthaven/voicemeeter-windows-volume](https://github.com/Frosthaven/voicemeeter-windows-volume)
+1. ❗ Opened issue [#1252](https://github.com/koharu-rs/koharu/issues/1252) in [koharu-rs/koharu](https://github.com/koharu-rs/koharu)
 2. 🗣 Commented on [#69](https://github.com/Frosthaven/voicemeeter-windows-volume/issues/69#issuecomment-4921351185) in [Frosthaven/voicemeeter-windows-volume](https://github.com/Frosthaven/voicemeeter-windows-volume)
 3. 🎉 Merged PR [#16](https://github.com/Freelancer-god/dnwf-management-fe/pull/16) in [Freelancer-god/dnwf-management-fe](https://github.com/Freelancer-god/dnwf-management-fe)
 4. 💪 Opened PR [#16](https://github.com/Freelancer-god/dnwf-management-fe/pull/16) in [Freelancer-god/dnwf-management-fe](https://github.com/Freelancer-god/dnwf-management-fe)
