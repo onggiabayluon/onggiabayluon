@@ -7,11 +7,11 @@ This is the place where I opensource stuff and break things
 ### :zap: Recent GitHub Activity
 
   <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1252](https://github.com/koharu-rs/koharu/issues/1252) in [koharu-rs/koharu](https://github.com/koharu-rs/koharu)
-2. 🗣 Commented on [#69](https://github.com/Frosthaven/voicemeeter-windows-volume/issues/69#issuecomment-4921351185) in [Frosthaven/voicemeeter-windows-volume](https://github.com/Frosthaven/voicemeeter-windows-volume)
-3. 🎉 Merged PR [#16](https://github.com/Freelancer-god/dnwf-management-fe/pull/16) in [Freelancer-god/dnwf-management-fe](https://github.com/Freelancer-god/dnwf-management-fe)
-4. 💪 Opened PR [#16](https://github.com/Freelancer-god/dnwf-management-fe/pull/16) in [Freelancer-god/dnwf-management-fe](https://github.com/Freelancer-god/dnwf-management-fe)
-5. 🎉 Merged PR [#15](https://github.com/Freelancer-god/dnwf-management-fe/pull/15) in [Freelancer-god/dnwf-management-fe](https://github.com/Freelancer-god/dnwf-management-fe)
+1. 🗣 Commented on [#985](https://github.com/getpaseo/plugins/pull/985#issuecomment-6332326497) in [getpaseo/plugins](https://github.com/getpaseo/plugins)
+2. ℹ️ Labeled issue [#986](https://github.com/getpaseo/plugins/issues/986) in [getpaseo/plugins](https://github.com/getpaseo/plugins)
+3. ❗ Opened issue [#986](https://github.com/getpaseo/plugins/issues/986) in [getpaseo/plugins](https://github.com/getpaseo/plugins)
+4. 🔒 Closed issue [#983](https://github.com/getpaseo/plugins/issues/983) in [getpaseo/plugins](https://github.com/getpaseo/plugins)
+5. ❗ Opened issue [#983](https://github.com/getpaseo/plugins/issues/983) in [getpaseo/plugins](https://github.com/getpaseo/plugins)
   <!--END_SECTION:activity-->
  
  <!--START_SECTION:waka-->
